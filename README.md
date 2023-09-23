@@ -1,4 +1,4 @@
 # 1strepo
 This is my first repo
 <br>
-Author- Green Wicho
+Author- Green Wicho (Rathan Veer)
